@@ -29,7 +29,8 @@ origin: contains the origin country which car belong to
 
 car name: contains the name of the car(Brand-Model-Variant)
 
-#Target variable
+# Target variable
+
 mpg:contains the fuel consumption values 
 
 #Model Description
@@ -44,7 +45,7 @@ mpg:contains the fuel consumption values
 
 * Accuracy score: 91% using Random Forest Regressor.
 
-#Inference
+# Inference
 
 Car's Fuel consumption(in mpg) is mostly affected by weight and Displacement of the car.
 
