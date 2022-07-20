@@ -1,4 +1,4 @@
-# Auto-mpg-prediction
+# Auto-mileage per gallon-prediction
 # Problem description
 predict the mileage per gallon(mpg) for cars 
 The basic idea of analysing the Auto mpg dataset is to get a fair idea about the factors affecting the fuel consumption of each car.
